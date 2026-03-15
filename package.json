@@ -1,0 +1,12 @@
+{
+  "name": "roblox-gemini-proxy",
+  "version": "1.0.0",
+  "description": "Gemini Proxy for Roblox Studio AI Plugin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
