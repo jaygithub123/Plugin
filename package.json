@@ -1,0 +1,12 @@
+{
+  "name": "claude-roblox-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Claude Roblox Studio Plugin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
