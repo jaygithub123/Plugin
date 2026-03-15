@@ -91,7 +91,7 @@ const server = http.createServer((req, res) => {
       }
     });
 
-    const path = `/v1beta/models/gemini-1.5-flash:generateContent?key=${key}`;
+    const path = `/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${key}`;
 
     const options = {
       hostname: "generativelanguage.googleapis.com",
